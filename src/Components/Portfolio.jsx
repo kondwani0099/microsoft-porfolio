@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/artificial-intelligence.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "AI";
 
 /**
  * Project list
@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Amatrade Store  🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Amatrade Store is an ecommerec platform where sellers can list there products and users can also create a custom basket forr us to buy items on behalf of our customers.",
+    url: "https://amatradestore.com",
   },
   {
     title: "Web Development for Beginners",
@@ -43,16 +43,16 @@ const projectList = [
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "Lapansi Industries",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Lapansi Industries is a leading tech Zambian company that provides improved learning using AI and we use IoT and AI to improve the healthcare system here in Zambia ",
+    url: "https://lapansiindusstries.com",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Kudima Ai app",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Kudima AI app is used by farmers to improve there yield by detecting crop diseases using AI and getting treatment recommendation  with easy",
+    url: "https://github.com/kondwani0099/Kudim-AI",
   },
 ];
 
